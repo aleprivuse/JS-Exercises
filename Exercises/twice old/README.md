@@ -67,3 +67,4 @@ function twiceAsOld(dadYearsOld, sonYearsOld) {
 }
 console.log(twiceAsOld(15, 3))
 ```
+> **Note:** For the logic/math solution check: `twiceAsOld-solution.js`
