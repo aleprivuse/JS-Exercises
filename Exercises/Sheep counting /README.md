@@ -42,7 +42,7 @@ var countSheep = function (num) {
 
 While solving this challenge, I documented the mistakes I made, how I debugged them, and what I learned from the process.
 
-You can find those notes in **`LESSONS.md`**.
+You can find those notes in **`LESSON.md`**.
 
 ---
 
