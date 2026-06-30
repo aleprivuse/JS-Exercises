@@ -24,7 +24,7 @@ function betterThanAverage(classPoints, yourPoints) {
 
 ## Notes
 
-I also documented what I learned while solving this challenge in `LESSONS.md`, including mistakes I made and how I fixed them.
+I also documented what I learned while solving this challenge in `LESSON.md`, including mistakes I made and how I fixed them.
 
 ---
 
