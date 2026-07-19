@@ -1,4 +1,4 @@
-# Twice as Old 👨‍👦
+# Twice as Old 
 
 A JavaScript solution to the **Twice as Old** coding challenge.
 
